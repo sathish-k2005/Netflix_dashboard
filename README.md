@@ -27,5 +27,5 @@ The objective of this project is to design an interactive Power BI dashboard usi
 
 
 ## Dashboard Preview  
-![Uploading Netflix_dashboard.png…](https://github.com/sathish-k2005/netflix-dashboard/blob/main/Netflix_dashboard.png)
+![Uploading Netflix_dashboard.png…](https://github.com/sathish-k2005/Netflix_dashboard/blob/main/Netflix_dashboard.png)
 
