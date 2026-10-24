@@ -23,7 +23,7 @@ The objective of this project is to design an interactive Power BI dashboard usi
 
 
 ## Dashboard Interaction
-- <a href="https://github.com/sathish-k2005/netflix-dashboard/blob/main/Netflix_Dashboard.pbix">View Dashboard</a>
+- <a href="https://github.com/sathish-k2005/Netflix_dashboard/blob/main/Netflix_Dashboard.pbix">View Dashboard</a>
 
 
 ## Dashboard Preview  
